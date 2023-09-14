@@ -1,0 +1,15 @@
+{
+    "name": "javadmahdizadeh/testp",
+    "autoload": {
+        "psr-4": {
+            "Javadmahdizadeh\\Testp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "javadmahdizadeh",
+            "email": "Javad.mahdizadeh@wesionaire.de"
+        }
+    ],
+    "require": {}
+}
